@@ -1,5 +1,4 @@
 // SPDX-License-Identifier: MIT
-// remove this line 
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 pragma solidity ^0.8.18;
 //nexus 
