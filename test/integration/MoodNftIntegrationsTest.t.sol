@@ -4,7 +4,6 @@ import {Test, console} from "forge-std/Test.sol";
 import {Base64} from "@openzeppelin/contracts/utils/Base64.sol";
 import {MoodNft} from "../../src/MoodNft.sol";
 import {DeployMoodNft} from "../../script/DeployMoodNft.s.sol";
-
 contract MoodNftIntegrationsTest is Test {
     DeployMoodNft public deployer;
     MoodNft public moodNft;
